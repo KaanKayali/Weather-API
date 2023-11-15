@@ -1,6 +1,6 @@
 # Weather-API
 ## Desciption
-Different Images based on the weather. API-key from the open-meteo.com site.
+This application shows different Images based on the weather. The API-key is from the open-meteo.com site.
 
 ## How it works
 It requests in the HTTP-aysnc event of an object a json file from the free open source weather api.
